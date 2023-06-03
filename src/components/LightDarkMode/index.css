@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.mini-con {
+  background-color: black;
+  height: 300px;
+  width: 600px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  color: #fff;
+  font-family: 'Roboto';
+}
+.head1 {
+  color: rgb(27, 11, 11);
+  font-family: 'Roboto';
+}
+.button {
+  cursor: pointer;
+}
+.mini-con1 {
+  background-color: #fff;
+  height: 300px;
+  width: 600px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+}
